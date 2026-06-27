@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @damsonspecial
 I am a full stack developjer 
-i have 8yrs experience in coding with php|MySQL|bootstrap|jquery|javascript|Html|css
+i have 10yrs experience in coding with php|MySQL|bootstrap|jquery|javascript|Html|css
 i also design wordpress based website
-i have 2yrs experience with laravel php framework 
+i have 5yrs experience with laravel php framework 
 
 i am a skillfull web developer who is addicted to what i do, thereby creating and unending passion to learning more languages and grabbinng on demand based.
 
